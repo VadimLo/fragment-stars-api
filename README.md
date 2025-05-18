@@ -1,8 +1,8 @@
 # 🌟 Flacker Stars API
 
-## The Ultimate Telegram Stars Trading Platform on TON Blockchain
+## Fragment Telegram Stars Platform on TON Blockchain
 
-Flacker Stars API provides a seamless gateway for **buying and selling Telegram Stars** through the TON blockchain network. Our API transforms the way users interact with Telegram's Stars feature, offering a secure and efficient transaction ecosystem.
+Flacker Stars API provides a seamless gateway for **buying Telegram Stars** through the TON blockchain network. Our API transforms the way users interact with Telegram's Stars feature, offering a secure and efficient transaction ecosystem.
 
 ---
 
