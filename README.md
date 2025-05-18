@@ -1,21 +1,56 @@
-Flacker Stars API
-Overview
-An API service for processing Telegram Stars payments through the TON blockchain. This API enables the buying and selling of Telegram Stars via TON blockchain transactions.
-The Flacker Stars API provides a bridge between Telegram's Stars feature and the TON blockchain network, allowing users to purchase and sell Stars securely.
-Features
+# 🌟 Flacker Stars API
 
-Seamless integration of Telegram Stars with TON blockchain
-Secure payment processing system
-Complete transaction management
-Detailed documentation with examples
+## The Ultimate Telegram Stars Trading Platform on TON Blockchain
 
-API Documentation
-For detailed information about request parameters, response schemas, and authentication methods, please refer to the official documentation:
-https://stars-api.flacker.online/docs
-Live Demo
-Experience the API in action:
-https://flacker.online/
-Getting Started
-To begin using the Flacker Stars API, review the documentation and register for API access through our website.
-Support
-For technical support or questions about implementation, please contact us through the information provided on our website.
+Flacker Stars API provides a seamless gateway for **buying and selling Telegram Stars** through the TON blockchain network. Our API transforms the way users interact with Telegram's Stars feature, offering a secure and efficient transaction ecosystem.
+
+---
+
+### ✨ Key Features
+
+- **Seamless Integration** - Connect Telegram Stars with TON blockchain effortlessly
+- **Bulletproof Security** - Advanced protection for all your transactions
+- **Complete Management** - Full transaction lifecycle handling
+- **Developer-Friendly** - Comprehensive documentation with practical examples
+
+---
+
+### 🚀 Getting Started
+
+To begin using the Flacker Stars API:
+
+1. Review our detailed documentation
+2. Register for API access through our website
+3. Implement our simple integration
+4. Start processing Telegram Stars transactions!
+
+---
+
+### 📚 Documentation
+
+For detailed information about request parameters, response schemas, and authentication methods:
+
+👉 [**Official API Documentation**](https://stars-api.flacker.online/docs)
+
+---
+
+### 🔍 Live Demo
+
+See the API in action:
+
+👉 [**Flacker.online Demo**](https://flacker.online/)
+
+---
+
+### 💬 Support
+
+Need help with implementation? Have technical questions?
+Contact our support team through the information provided on our website.
+
+---
+
+## About Telegram Stars
+
+Telegram Stars are a valuable digital asset within the Telegram ecosystem. Our API enables you to leverage the power of TON blockchain to securely trade these assets with confidence.
+
+*Flacker Stars API - Bridging Telegram's Stars with blockchain technology*
